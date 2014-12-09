@@ -18,8 +18,10 @@ now , every thing is ok, enjoy google.com or other website.
 ===============
 for redhat/centos 6 users:
 
-extract the tar.gz to "/" 
+extract the tar.gz to “/home” 
 
 and run the commands below:
 
-sudo /ezsock
+cd /home
+
+sudo ./run
