@@ -5,6 +5,10 @@ This a sock4 and socks5 proxy , and a dns proxy mean while,for asians to speed u
 
 How to use:
 
+for windows:
+
+download first at : https://github.com/ezsock5/ezsock5/raw/master/ezsock5forWindows008.zip
+
 1.run ezsock5.exe
 
 2.change the socks proxy of IE(or firefox,chrome ) to 127.0.0.1,port 9999.
@@ -17,6 +21,9 @@ now , every thing is ok, enjoy google.com or other website.
 
 ===============
 for redhat/centos 6 users:
+
+download first at : https://github.com/ezsock5/ezsock5/raw/master/ezsock5_008_for_redhat6.tar.gz
+
 
 extract the tar.gz to “/home” 
 
