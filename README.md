@@ -1,6 +1,12 @@
 ezsock5
 =======
 
+FEATURES:
+
+1. Stable accessing speed to international 
+
+
+
 This a sock4 and socks5 proxy , and a dns proxy mean while,for asians to speed up the internet accessing.
 
 How to use:
