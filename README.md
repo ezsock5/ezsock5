@@ -3,7 +3,13 @@ ezsock5
 
 FEATURES:
 
-1. Stable accessing speed to international 
+1. Stable accessing speed to international websites
+
+2. pac : auto proxy configuration for iOS
+
+3. socks4,sock5
+
+4. run in windows, used in other devices(iOS,android)
 
 
 
@@ -13,7 +19,7 @@ How to use:
 
 for windows:
 
-download first at : https://github.com/ezsock5/ezsock5/raw/master/ezsock5forWindows015.zip
+download first at : https://github.com/ezsock5/ezsock5/raw/master/ezsock5forWindows016.zip
 
 1.run ezsock5.exe
 
