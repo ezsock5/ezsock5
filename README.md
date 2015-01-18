@@ -9,7 +9,7 @@ FEATURES:
 
 3. socks4,sock5
 
-4. run in windows, used in other devices(iOS,android)
+4. run in windows7-8, used in other devices(iOS,android)
 
 
 
@@ -19,7 +19,7 @@ How to use:
 
 for windows:
 
-download first at : https://github.com/ezsock5/ezsock5/raw/master/ezsock5forWindows020.zip
+download first at : https://github.com/ezsock5/ezsock5/raw/master/ezsock5forWindows021.zip
 
 1.run ezsock5.exe
 
